@@ -4,9 +4,8 @@
 
 - <b> Azure / Cloud Cybersecurity Projects </b>
   - [Created a SOC/ Honeynet in Azure](https://github.com/DevonDrouin/Building-a-SOC-Honeynet-in-Azure)
-    
-- <B> Creating a Honeynet in Azure 
-
+  - [Creating a Honeynet in Azure](https://github.com/DevonDrouin/Creating-a-Honeynet-in-Azure-)
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="DevonDrouin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
