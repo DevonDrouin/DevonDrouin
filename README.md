@@ -5,7 +5,10 @@
 - <b> Azure / Cloud Cybersecurity Projects </b>
   - [Created a SOC/ Honeynet in Azure](https://github.com/DevonDrouin/Building-a-SOC-Honeynet-in-Azure)
   - [Creating a Honeynet in Azure](https://github.com/DevonDrouin/Creating-a-Honeynet-in-Azure-)
- 
+
+ - <b> GRC Projects/Examples</b>
+   - [GRC Templates](df)
+   
 - <b> Active Directory Administration on Windows Server 2019 w/ PowerShell Bulk User Creation</b>
   - [Active Directory Lab Overview](https://github.com/DevonDrouin/Active-Directory-Lab-Setup)
   - [PowerShell Bulk User Creation](https://github.com/DevonDrouin/PowerShell-Bulk-User-Creation)
