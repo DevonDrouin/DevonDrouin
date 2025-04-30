@@ -8,7 +8,7 @@
 
  - <b> GRC Projects/Examples</b>
    - [GRC Risk Register Template](https://github.com/DevonDrouin/Risk-Register-Template)
-   - [GRC Acceptable Use Policy (AUP)- Sample] 
+   - [GRC Acceptable Use Policy (AUP)- Sample](https://github.com/DevonDrouin/Acceptable-Use-Policy-AUP-/blob/main/README.md)
      
 - <b> Active Directory Administration on Windows Server 2019 w/ PowerShell Bulk User Creation</b>
   - [Active Directory Lab Overview](https://github.com/DevonDrouin/Active-Directory-Lab-Setup)
