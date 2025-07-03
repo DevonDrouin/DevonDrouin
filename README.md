@@ -6,7 +6,7 @@
   - [Created a SOC/ Honeynet in Azure](https://github.com/DevonDrouin/Building-a-SOC-Honeynet-in-Azure)
   - [Creating a Honeynet in Azure](https://github.com/DevonDrouin/Creating-a-Honeynet-in-Azure-)
 
- - <b> GRC Projects/Examples</b>
+ - <b> GRC Documents/Examples</b>
    - [GRC Risk Register Template](https://github.com/DevonDrouin/Risk-Register-Template)
    - [GRC Acceptable Use Policy (AUP)- Sample](https://github.com/DevonDrouin/Acceptable-Use-Policy-AUP-/blob/main/README.md)
      
