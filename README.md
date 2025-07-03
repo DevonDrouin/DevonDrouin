@@ -6,8 +6,8 @@
   - [Created a SOC/ Honeynet in Azure](https://github.com/DevonDrouin/Building-a-SOC-Honeynet-in-Azure)
   - [Creating a Honeynet in Azure](https://github.com/DevonDrouin/Creating-a-Honeynet-in-Azure-)
 
-- <b> Practical Guided Project: Achieving ISO 27001 Certification for an organisation</b>
-   - [GRC Risk Register Template](https://github.com/DevonDrouin/Risk-Register-Template)
+- <b> ISO/IEC 27001:2022 ISMS from scratch</b>
+   - [Achieving ISO 27001 Certification for an organisation](https://github.com/DevonDrouin/Risk-Register-Template)
    - [GRC Acceptable Use Policy (AUP)- Sample](https://github.com/DevonDrouin/Acceptable-Use-Policy-AUP-/blob/main/README.md)
      
  - <b> GRC Documents/Examples</b>
