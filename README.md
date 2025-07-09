@@ -7,7 +7,7 @@
   - [Creating a Honeynet in Azure](https://github.com/DevonDrouin/Creating-a-Honeynet-in-Azure-)
 
 - <b> ISO/IEC 27001:2022 ISMS from scratch</b>
-   - [ISO 27001 Certification for an organisation](https://github.com/DevonDrouin/ISO-27001-Certification/tree/main))
+   - [ISO 27001 Certification ](https://github.com/DevonDrouin/ISO-27001-Certification/tree/main)
      
  - <b> GRC Documents/Examples</b>
    - [GRC Risk Register Template](https://github.com/DevonDrouin/Risk-Register-Template)
